@@ -17,7 +17,7 @@ let userEmail;
 const id =  Symbol('123')
 const anotherId =  Symbol('123')
 
-console.log( id === anotherId);
+// console.log( id === anotherId);
 
 const bigNumber = 234567876544567n  
 
@@ -32,6 +32,16 @@ const heroes =  ["Shaktiman", "Doremon", "Shinchan"];
 }
 
 const myFunction = function(){
-    console.log("hello world");
+    // console.log("hello world");
     
 }
+
+// *********************** 
+
+// stack (Primitive), Heap (Non - Primtive)
+
+let myCollegename = "SRMCollegeRmp"
+
+anothername = myCollegename
+
+console.log(anothername);
