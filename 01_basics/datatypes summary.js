@@ -42,6 +42,21 @@ const myFunction = function(){
 
 let myCollegename = "SRMCollegeRmp"
 
-anothername = myCollegename
+let anothername = myCollegename
+anothername = srmeashwaricollege
 
+
+console.log(myCollegename);
 console.log(anothername);
+
+let userOne = {
+    email : "ankit@google.com",
+    upi : "user@oksbi"
+}
+
+let userTwo = userOne
+
+userTwo.email = "ankitnayak@gmail.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
