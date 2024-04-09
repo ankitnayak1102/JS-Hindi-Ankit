@@ -58,5 +58,5 @@ let userTwo = userOne
 
 userTwo.email = "ankitnayak@gmail.com"
 
-console.log(userOne.email);
-console.log(userTwo.email);
+// console.log(userOne.email);
+// console.log(userTwo.email);
