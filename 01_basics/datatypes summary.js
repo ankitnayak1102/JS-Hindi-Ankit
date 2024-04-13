@@ -47,7 +47,7 @@ anothername = srmeashwaricollege
 
 
 console.log(myCollegename);
-console.log(anothername);
+// console.log(anothername);
 
 let userOne = {
     email : "ankit@google.com",
